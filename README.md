@@ -35,6 +35,8 @@
 </div>
 
 <div align="center">
+
+![snake gif](https://github.com/GabrielDomingues12/GabrielDomingues12/blob/output/github-contribution-grid-snake.svg)
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermo-masid-494677b8/)](https://www.linkedin.com/in/carlos-gabriel-domingues/)
 
